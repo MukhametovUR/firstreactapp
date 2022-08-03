@@ -4,7 +4,7 @@ import Message from './Message'
 function App() {
 	const name = 'Сергей'
   return (
-   <Message name={name}/>
+   <Message name={name} />
   );
 }
 
